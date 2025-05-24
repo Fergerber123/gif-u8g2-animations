@@ -103,7 +103,7 @@ magick <INPUT_GIF_PATH> -coalesce -resize <DISPLAY_RES>! -brightness-contrast <B
 
 I made a Python tool for previewing how your `.xbm` frames animation looks before uploading to the ESP called `previewer.py`.
 
-If you plan to use the default frame directory, place your `.xbm` frame files in the folder named `frames` inside the tool's directory.
+If you plan to use the default frame directory, place your `.xbm` frame files in a folder named `frames` inside the tool's directory.
 
 * Open a CLI in the tool's directory location
 
@@ -135,7 +135,7 @@ I made a Python tool called xbm_frames_to_header.py, it tweaks the code in the `
 
 #### Preparation
 
-If you plan to use the default frame directory, place your `.xbm` frame files in the folder named `frames` inside the tool's directory.
+If you plan to use the default frame directory, place your `.xbm` frame files in a folder named `frames` inside the tool's directory.
 
 * Open a CLI in the tool's directory location
 
