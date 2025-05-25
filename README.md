@@ -123,7 +123,7 @@ This project uses the [U8g2 Library](https://github.com/olikraus/u8g2), a versat
 
 There is some prep work before the frames can be used in your Arduino code.
 
-Unfortunately the code in the `.xbm` frame files produced my ImageMagick isn't compatible with U8g2.
+Unfortunately the code in the `.xbm` frame files produced by ImageMagick isn't compatible with U8g2.
 
 So to make the changes easy I made the following tool.
 
