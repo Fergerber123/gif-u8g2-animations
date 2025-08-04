@@ -4,6 +4,8 @@
  
 This project converts GIFs into `.xbm` image frames for use on, but not limited to, 128x64 monochrome OLED displays, such as those controlled by the **ESP32** using the [**U8g2**](#arduino-application) Arduino library.
 
+![cat kiss gif](./cat%20kiss.gif)
+
 ---
 
 
